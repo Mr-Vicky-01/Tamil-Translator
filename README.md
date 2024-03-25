@@ -29,6 +29,9 @@ pip install transformers
 
 You can use this model in your Python code like this:
 
+## Model Link
+[Hugging Face](https://huggingface.co/Mr-Vicky-01/English-Tamil-Translator)
+
 ## Inference
 1. **How to use the model in our notebook**:
 ```python
@@ -53,5 +56,4 @@ print(output)
 ## Demo 
 ![image](https://github.com/Mr-Vicky-01/tamil_summarization/assets/143078285/7977f815-e670-4bb2-b472-1dd75b2304c9)
 
-## Model Link
-[Hugging Face](https://huggingface.co/Mr-Vicky-01/English-Tamil-Translator)
+[Try this Model]{https://huggingface.co/spaces/Mr-Vicky-01/tamil_translator}
