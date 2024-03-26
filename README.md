@@ -54,7 +54,8 @@ print(output)
 ```
 
 ## Demo 
-![image](https://github.com/Mr-Vicky-01/tamil_summarization/assets/143078285/7977f815-e670-4bb2-b472-1dd75b2304c9)
 ![image](https://github.com/Mr-Vicky-01/Tamil_Translator/assets/143078285/8609a8c9-f4a2-463e-8077-df8a48b01099)
+
+![image](https://github.com/Mr-Vicky-01/tamil_summarization/assets/143078285/7977f815-e670-4bb2-b472-1dd75b2304c9)
 
 [Try this Model](https://huggingface.co/spaces/Mr-Vicky-01/tamil_translator)
