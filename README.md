@@ -1,6 +1,7 @@
 # English to Tamil Translation Model
 
 This model translates English sentences into Tamil using a fine-tuned version of the [Mr-Vicky](https://huggingface.co/Mr-Vicky-01/Fine_tune_english_to_tamil) available on the Hugging Face model hub. 
+![image](https://github.com/Mr-Vicky-01/Tamil_Translator/assets/143078285/8609a8c9-f4a2-463e-8077-df8a48b01099)
 
 ## About the Authors
 This model was developed by [suriya7](https://huggingface.co/suriya7) in collaboration with [Mr-Vicky](https://huggingface.co/Mr-Vicky-01). 
@@ -54,8 +55,6 @@ print(output)
 ```
 
 ## Demo 
-![image](https://github.com/Mr-Vicky-01/Tamil_Translator/assets/143078285/8609a8c9-f4a2-463e-8077-df8a48b01099)
-
 ![image](https://github.com/Mr-Vicky-01/tamil_summarization/assets/143078285/7977f815-e670-4bb2-b472-1dd75b2304c9)
 
 [Try this Model](https://huggingface.co/spaces/Mr-Vicky-01/tamil_translator)
