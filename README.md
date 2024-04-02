@@ -4,7 +4,7 @@ This model translates English sentences into Tamil using a fine-tuned version of
 ![image](https://github.com/Mr-Vicky-01/Tamil_Translator/assets/143078285/8609a8c9-f4a2-463e-8077-df8a48b01099)
 
 ## About the Authors
-This model was developed by [suriya7](https://huggingface.co/suriya7) in collaboration with [Mr-Vicky](https://huggingface.co/Mr-Vicky-01). 
+This model was developed by [[Mr-Vicky](https://huggingface.co/Mr-Vicky-01). in collaboration with [suriya7](https://huggingface.co/suriya7)
 
 ## Usage
 
